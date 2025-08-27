@@ -31,3 +31,14 @@ git branch -M main = changes the branch name to main which is a standard practic
 git remote add origin /github repository link/
 
 git push -u origin main = push local to remote (computer files to github)
+
+branching = allow you to create different version of your project. Whatever you make in the branch won't affect the original. if everything works out then you can later merge it in the original, if not then no worries the originil will remain safe and unchanged
+
+git branch /branch-name/
+if you want to check the branch out you can do:
+git checkout /branch-name/
+if you want to go back to main then you can do:
+git checkout master/main
+
+shortcut to create and automatically move to new branch:
+git checkout -b branch name
