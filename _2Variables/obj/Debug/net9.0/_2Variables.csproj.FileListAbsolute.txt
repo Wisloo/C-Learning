@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\bin\Debug\net9.0\_2Variables.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\bin\Debug\net9.0\_2Variables.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\bin\Debug\net9.0\_2Variables.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\bin\Debug\net9.0\_2Variables.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\bin\Debug\net9.0\_2Variables.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\refint\_2Variables.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\_2Variables.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_2Variables\obj\Debug\net9.0\ref\_2Variables.dll

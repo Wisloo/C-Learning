@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\bin\Debug\net9.0\_1FirstCSharpProgram.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\bin\Debug\net9.0\_1FirstCSharpProgram.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\bin\Debug\net9.0\_1FirstCSharpProgram.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\bin\Debug\net9.0\_1FirstCSharpProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\bin\Debug\net9.0\_1FirstCSharpProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\refint\_1FirstCSharpProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\_1FirstCSharpProgram.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_1FirstCSharpProgram\obj\Debug\net9.0\ref\_1FirstCSharpProgram.dll

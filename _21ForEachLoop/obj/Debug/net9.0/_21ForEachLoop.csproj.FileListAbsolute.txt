@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\bin\Debug\net9.0\_21ForEachLoop.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\bin\Debug\net9.0\_21ForEachLoop.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\bin\Debug\net9.0\_21ForEachLoop.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\bin\Debug\net9.0\_21ForEachLoop.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\bin\Debug\net9.0\_21ForEachLoop.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\refint\_21ForEachLoop.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\_21ForEachLoop.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_21ForEachLoop\obj\Debug\net9.0\ref\_21ForEachLoop.dll

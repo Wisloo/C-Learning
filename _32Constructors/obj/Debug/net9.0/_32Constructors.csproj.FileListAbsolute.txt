@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\bin\Debug\net9.0\_32Constructors.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\bin\Debug\net9.0\_32Constructors.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\bin\Debug\net9.0\_32Constructors.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\bin\Debug\net9.0\_32Constructors.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\bin\Debug\net9.0\_32Constructors.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\refint\_32Constructors.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\_32Constructors.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_32Constructors\obj\Debug\net9.0\ref\_32Constructors.dll

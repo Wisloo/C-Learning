@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\bin\Debug\net9.0\_6ArithmeticOperators.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\bin\Debug\net9.0\_6ArithmeticOperators.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\bin\Debug\net9.0\_6ArithmeticOperators.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\bin\Debug\net9.0\_6ArithmeticOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\bin\Debug\net9.0\_6ArithmeticOperators.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\refint\_6ArithmeticOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\_6ArithmeticOperators.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_6ArithmeticOperators\obj\Debug\net9.0\ref\_6ArithmeticOperators.dll

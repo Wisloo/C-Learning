@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\bin\Debug\net9.0\_33Static.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\bin\Debug\net9.0\_33Static.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\bin\Debug\net9.0\_33Static.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\bin\Debug\net9.0\_33Static.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\bin\Debug\net9.0\_33Static.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\refint\_33Static.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\_33Static.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_33Static\obj\Debug\net9.0\ref\_33Static.dll

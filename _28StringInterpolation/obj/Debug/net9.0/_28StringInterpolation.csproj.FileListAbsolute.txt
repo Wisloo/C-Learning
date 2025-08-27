@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\bin\Debug\net9.0\_28StringInterpolation.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\bin\Debug\net9.0\_28StringInterpolation.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\bin\Debug\net9.0\_28StringInterpolation.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\bin\Debug\net9.0\_28StringInterpolation.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\bin\Debug\net9.0\_28StringInterpolation.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\refint\_28StringInterpolation.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\_28StringInterpolation.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_28StringInterpolation\obj\Debug\net9.0\ref\_28StringInterpolation.dll

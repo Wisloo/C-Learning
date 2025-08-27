@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\bin\Debug\net9.0\_46AutoImplementedProperties.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\bin\Debug\net9.0\_46AutoImplementedProperties.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\bin\Debug\net9.0\_46AutoImplementedProperties.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\bin\Debug\net9.0\_46AutoImplementedProperties.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\bin\Debug\net9.0\_46AutoImplementedProperties.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\refint\_46AutoImplementedProperties.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\_46AutoImplementedProperties.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_46AutoImplementedProperties\obj\Debug\net9.0\ref\_46AutoImplementedProperties.dll

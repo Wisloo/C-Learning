@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\bin\Debug\net9.0\_35Inheritance.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\bin\Debug\net9.0\_35Inheritance.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\bin\Debug\net9.0\_35Inheritance.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\bin\Debug\net9.0\_35Inheritance.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\bin\Debug\net9.0\_35Inheritance.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\refint\_35Inheritance.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\_35Inheritance.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_35Inheritance\obj\Debug\net9.0\ref\_35Inheritance.dll

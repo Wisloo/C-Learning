@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\bin\Debug\net9.0\_7MathClass.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\bin\Debug\net9.0\_7MathClass.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\bin\Debug\net9.0\_7MathClass.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\bin\Debug\net9.0\_7MathClass.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\bin\Debug\net9.0\_7MathClass.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\refint\_7MathClass.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\_7MathClass.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_7MathClass\obj\Debug\net9.0\ref\_7MathClass.dll

@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\bin\Debug\net9.0\_19CalculatorProgram.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\bin\Debug\net9.0\_19CalculatorProgram.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\bin\Debug\net9.0\_19CalculatorProgram.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\bin\Debug\net9.0\_19CalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\bin\Debug\net9.0\_19CalculatorProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\refint\_19CalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\_19CalculatorProgram.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_19CalculatorProgram\obj\Debug\net9.0\ref\_19CalculatorProgram.dll

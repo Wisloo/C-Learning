@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\bin\Debug\net9.0\_38ObjectsAsArguments.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\bin\Debug\net9.0\_38ObjectsAsArguments.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\bin\Debug\net9.0\_38ObjectsAsArguments.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\bin\Debug\net9.0\_38ObjectsAsArguments.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\bin\Debug\net9.0\_38ObjectsAsArguments.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\refint\_38ObjectsAsArguments.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\_38ObjectsAsArguments.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_38ObjectsAsArguments\obj\Debug\net9.0\ref\_38ObjectsAsArguments.dll

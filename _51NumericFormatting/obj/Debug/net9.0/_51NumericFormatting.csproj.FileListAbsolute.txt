@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\bin\Debug\net9.0\_51NumericFormatting.exe
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\bin\Debug\net9.0\_51NumericFormatting.deps.json
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\bin\Debug\net9.0\_51NumericFormatting.runtimeconfig.json
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\bin\Debug\net9.0\_51NumericFormatting.dll
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\bin\Debug\net9.0\_51NumericFormatting.pdb
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.dll
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\refint\_51NumericFormatting.dll
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.pdb
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\_51NumericFormatting.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Programs\LearningCSharp\_51NumericFormatting\obj\Debug\net9.0\ref\_51NumericFormatting.dll

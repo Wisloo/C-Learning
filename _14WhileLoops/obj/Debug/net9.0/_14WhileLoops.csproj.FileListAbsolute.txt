@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\bin\Debug\net9.0\_14WhileLoops.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\bin\Debug\net9.0\_14WhileLoops.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\bin\Debug\net9.0\_14WhileLoops.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\bin\Debug\net9.0\_14WhileLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\bin\Debug\net9.0\_14WhileLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\refint\_14WhileLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\_14WhileLoops.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_14WhileLoops\obj\Debug\net9.0\ref\_14WhileLoops.dll

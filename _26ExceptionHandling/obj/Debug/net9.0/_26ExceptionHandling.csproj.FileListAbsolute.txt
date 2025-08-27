@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\bin\Debug\net9.0\_26ExceptionHandling.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\bin\Debug\net9.0\_26ExceptionHandling.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\bin\Debug\net9.0\_26ExceptionHandling.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\bin\Debug\net9.0\_26ExceptionHandling.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\bin\Debug\net9.0\_26ExceptionHandling.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\refint\_26ExceptionHandling.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\_26ExceptionHandling.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_26ExceptionHandling\obj\Debug\net9.0\ref\_26ExceptionHandling.dll

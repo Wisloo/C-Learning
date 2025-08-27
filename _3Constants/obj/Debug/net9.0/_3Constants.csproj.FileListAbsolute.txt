@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\bin\Debug\net9.0\_3Constants.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\bin\Debug\net9.0\_3Constants.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\bin\Debug\net9.0\_3Constants.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\bin\Debug\net9.0\_3Constants.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\bin\Debug\net9.0\_3Constants.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\refint\_3Constants.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\_3Constants.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_3Constants\obj\Debug\net9.0\ref\_3Constants.dll

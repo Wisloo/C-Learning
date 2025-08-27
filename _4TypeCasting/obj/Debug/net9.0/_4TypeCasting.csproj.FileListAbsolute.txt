@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\bin\Debug\net9.0\_4TypeCasting.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\bin\Debug\net9.0\_4TypeCasting.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\bin\Debug\net9.0\_4TypeCasting.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\bin\Debug\net9.0\_4TypeCasting.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\bin\Debug\net9.0\_4TypeCasting.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\refint\_4TypeCasting.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\_4TypeCasting.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_4TypeCasting\obj\Debug\net9.0\ref\_4TypeCasting.dll

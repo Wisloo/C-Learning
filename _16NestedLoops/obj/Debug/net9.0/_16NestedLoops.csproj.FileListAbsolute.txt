@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\bin\Debug\net9.0\_16NestedLoops.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\bin\Debug\net9.0\_16NestedLoops.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\bin\Debug\net9.0\_16NestedLoops.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\bin\Debug\net9.0\_16NestedLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\bin\Debug\net9.0\_16NestedLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\refint\_16NestedLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\_16NestedLoops.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_16NestedLoops\obj\Debug\net9.0\ref\_16NestedLoops.dll

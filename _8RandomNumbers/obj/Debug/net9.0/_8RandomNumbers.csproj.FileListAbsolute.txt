@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\bin\Debug\net9.0\_8RandomNumbers.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\bin\Debug\net9.0\_8RandomNumbers.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\bin\Debug\net9.0\_8RandomNumbers.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\bin\Debug\net9.0\_8RandomNumbers.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\bin\Debug\net9.0\_8RandomNumbers.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\refint\_8RandomNumbers.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\_8RandomNumbers.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_8RandomNumbers\obj\Debug\net9.0\ref\_8RandomNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\bin\Debug\net9.0\_17NumberGuessingGame.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\bin\Debug\net9.0\_17NumberGuessingGame.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\bin\Debug\net9.0\_17NumberGuessingGame.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\bin\Debug\net9.0\_17NumberGuessingGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\bin\Debug\net9.0\_17NumberGuessingGame.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\refint\_17NumberGuessingGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\_17NumberGuessingGame.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_17NumberGuessingGame\obj\Debug\net9.0\ref\_17NumberGuessingGame.dll

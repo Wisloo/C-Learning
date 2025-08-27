@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\bin\Debug\net9.0\_22Methods.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\bin\Debug\net9.0\_22Methods.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\bin\Debug\net9.0\_22Methods.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\bin\Debug\net9.0\_22Methods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\bin\Debug\net9.0\_22Methods.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\refint\_22Methods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\_22Methods.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_22Methods\obj\Debug\net9.0\ref\_22Methods.dll

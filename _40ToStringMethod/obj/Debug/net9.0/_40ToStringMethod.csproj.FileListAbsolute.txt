@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\bin\Debug\net9.0\_40ToStringMethod.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\bin\Debug\net9.0\_40ToStringMethod.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\bin\Debug\net9.0\_40ToStringMethod.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\bin\Debug\net9.0\_40ToStringMethod.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\bin\Debug\net9.0\_40ToStringMethod.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\refint\_40ToStringMethod.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\_40ToStringMethod.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_40ToStringMethod\obj\Debug\net9.0\ref\_40ToStringMethod.dll

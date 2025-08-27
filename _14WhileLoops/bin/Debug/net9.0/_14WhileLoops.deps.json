@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "_14WhileLoops/1.0.0": {
+        "runtime": {
+          "_14WhileLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_14WhileLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

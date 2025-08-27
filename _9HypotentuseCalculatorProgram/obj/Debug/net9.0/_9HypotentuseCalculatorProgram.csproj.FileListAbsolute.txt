@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\bin\Debug\net9.0\_9HypotentuseCalculatorProgram.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\bin\Debug\net9.0\_9HypotentuseCalculatorProgram.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\bin\Debug\net9.0\_9HypotentuseCalculatorProgram.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\bin\Debug\net9.0\_9HypotentuseCalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\bin\Debug\net9.0\_9HypotentuseCalculatorProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\refint\_9HypotentuseCalculatorProgram.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\_9HypotentuseCalculatorProgram.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_9HypotentuseCalculatorProgram\obj\Debug\net9.0\ref\_9HypotentuseCalculatorProgram.dll

@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\bin\Debug\net9.0\_25ParamsKeyword.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\bin\Debug\net9.0\_25ParamsKeyword.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\bin\Debug\net9.0\_25ParamsKeyword.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\bin\Debug\net9.0\_25ParamsKeyword.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\bin\Debug\net9.0\_25ParamsKeyword.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\refint\_25ParamsKeyword.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\_25ParamsKeyword.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_25ParamsKeyword\obj\Debug\net9.0\ref\_25ParamsKeyword.dll

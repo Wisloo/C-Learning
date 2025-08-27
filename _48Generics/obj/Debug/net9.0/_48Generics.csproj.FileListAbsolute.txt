@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\bin\Debug\net9.0\_48Generics.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\bin\Debug\net9.0\_48Generics.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\bin\Debug\net9.0\_48Generics.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\bin\Debug\net9.0\_48Generics.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\bin\Debug\net9.0\_48Generics.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\refint\_48Generics.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\_48Generics.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_48Generics\obj\Debug\net9.0\ref\_48Generics.dll

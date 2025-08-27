@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\bin\Debug\net9.0\_10StringMethods.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\bin\Debug\net9.0\_10StringMethods.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\bin\Debug\net9.0\_10StringMethods.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\bin\Debug\net9.0\_10StringMethods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\bin\Debug\net9.0\_10StringMethods.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\refint\_10StringMethods.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\_10StringMethods.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_10StringMethods\obj\Debug\net9.0\ref\_10StringMethods.dll

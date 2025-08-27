@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\bin\Debug\net9.0\_47Enums.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\bin\Debug\net9.0\_47Enums.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\bin\Debug\net9.0\_47Enums.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\bin\Debug\net9.0\_47Enums.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\bin\Debug\net9.0\_47Enums.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\refint\_47Enums.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\_47Enums.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_47Enums\obj\Debug\net9.0\ref\_47Enums.dll

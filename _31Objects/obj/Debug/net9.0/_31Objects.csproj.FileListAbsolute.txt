@@ -1,0 +1,28 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\refint\_31Objects.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_31Objects\obj\Debug\net9.0\ref\_31Objects.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.exe
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.deps.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.runtimeconfig.json
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\bin\Debug\net9.0\_31Objects.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\refint\_31Objects.dll
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.pdb
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\_31Objects.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Louis Files\LearningCSharp\_31Objects\obj\Debug\net9.0\ref\_31Objects.dll

@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\bin\Debug\net9.0\_30Classes.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\bin\Debug\net9.0\_30Classes.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\bin\Debug\net9.0\_30Classes.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\bin\Debug\net9.0\_30Classes.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\bin\Debug\net9.0\_30Classes.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\refint\_30Classes.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\_30Classes.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_30Classes\obj\Debug\net9.0\ref\_30Classes.dll

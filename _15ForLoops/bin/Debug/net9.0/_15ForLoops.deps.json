@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "_15ForLoops/1.0.0": {
+        "runtime": {
+          "_15ForLoops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_15ForLoops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

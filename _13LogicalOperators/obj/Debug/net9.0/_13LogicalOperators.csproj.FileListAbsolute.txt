@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\bin\Debug\net9.0\_13LogicalOperators.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\bin\Debug\net9.0\_13LogicalOperators.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\bin\Debug\net9.0\_13LogicalOperators.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\bin\Debug\net9.0\_13LogicalOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\bin\Debug\net9.0\_13LogicalOperators.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\refint\_13LogicalOperators.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\_13LogicalOperators.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_13LogicalOperators\obj\Debug\net9.0\ref\_13LogicalOperators.dll

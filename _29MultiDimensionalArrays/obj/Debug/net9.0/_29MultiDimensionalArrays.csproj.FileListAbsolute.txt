@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\bin\Debug\net9.0\_29MultiDimensionalArrays.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\bin\Debug\net9.0\_29MultiDimensionalArrays.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\bin\Debug\net9.0\_29MultiDimensionalArrays.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\bin\Debug\net9.0\_29MultiDimensionalArrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\bin\Debug\net9.0\_29MultiDimensionalArrays.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\refint\_29MultiDimensionalArrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\_29MultiDimensionalArrays.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_29MultiDimensionalArrays\obj\Debug\net9.0\ref\_29MultiDimensionalArrays.dll

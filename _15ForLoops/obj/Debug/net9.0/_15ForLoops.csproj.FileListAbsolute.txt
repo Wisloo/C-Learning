@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\bin\Debug\net9.0\_15ForLoops.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\bin\Debug\net9.0\_15ForLoops.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\bin\Debug\net9.0\_15ForLoops.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\bin\Debug\net9.0\_15ForLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\bin\Debug\net9.0\_15ForLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\refint\_15ForLoops.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\_15ForLoops.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_15ForLoops\obj\Debug\net9.0\ref\_15ForLoops.dll

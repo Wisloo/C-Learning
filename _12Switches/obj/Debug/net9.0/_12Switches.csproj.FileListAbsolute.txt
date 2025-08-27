@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\bin\Debug\net9.0\_12Switches.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\bin\Debug\net9.0\_12Switches.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\bin\Debug\net9.0\_12Switches.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\bin\Debug\net9.0\_12Switches.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\bin\Debug\net9.0\_12Switches.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\refint\_12Switches.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\_12Switches.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_12Switches\obj\Debug\net9.0\ref\_12Switches.dll

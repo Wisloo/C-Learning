@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\bin\Debug\net9.0\_20Arrays.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\bin\Debug\net9.0\_20Arrays.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\bin\Debug\net9.0\_20Arrays.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\bin\Debug\net9.0\_20Arrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\bin\Debug\net9.0\_20Arrays.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\refint\_20Arrays.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\_20Arrays.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_20Arrays\obj\Debug\net9.0\ref\_20Arrays.dll

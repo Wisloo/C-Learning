@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\bin\Debug\net9.0\_5UserInput.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\bin\Debug\net9.0\_5UserInput.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\bin\Debug\net9.0\_5UserInput.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\bin\Debug\net9.0\_5UserInput.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\bin\Debug\net9.0\_5UserInput.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\refint\_5UserInput.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\_5UserInput.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_5UserInput\obj\Debug\net9.0\ref\_5UserInput.dll

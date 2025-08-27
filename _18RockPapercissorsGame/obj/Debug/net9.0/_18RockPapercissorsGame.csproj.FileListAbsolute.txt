@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\bin\Debug\net9.0\_18RockPapercissorsGame.exe
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\bin\Debug\net9.0\_18RockPapercissorsGame.deps.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\bin\Debug\net9.0\_18RockPapercissorsGame.runtimeconfig.json
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\bin\Debug\net9.0\_18RockPapercissorsGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\bin\Debug\net9.0\_18RockPapercissorsGame.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\refint\_18RockPapercissorsGame.dll
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.pdb
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\_18RockPapercissorsGame.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\LearningCSharp\_18RockPapercissorsGame\obj\Debug\net9.0\ref\_18RockPapercissorsGame.dll
