@@ -1,0 +1,14 @@
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/bin/Debug/net9.0/_61PrintStringInReverse
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/bin/Debug/net9.0/_61PrintStringInReverse.deps.json
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/bin/Debug/net9.0/_61PrintStringInReverse.runtimeconfig.json
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/bin/Debug/net9.0/_61PrintStringInReverse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/bin/Debug/net9.0/_61PrintStringInReverse.pdb
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.AssemblyInfoInputs.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.AssemblyInfo.cs
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.csproj.CoreCompileInputs.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/refint/_61PrintStringInReverse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.pdb
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/_61PrintStringInReverse.genruntimeconfig.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_61PrintStringInReverse/obj/Debug/net9.0/ref/_61PrintStringInReverse.dll

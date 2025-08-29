@@ -1,0 +1,14 @@
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/bin/Debug/net9.0/_50TryParse
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/bin/Debug/net9.0/_50TryParse.deps.json
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/bin/Debug/net9.0/_50TryParse.runtimeconfig.json
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/bin/Debug/net9.0/_50TryParse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/bin/Debug/net9.0/_50TryParse.pdb
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.AssemblyInfoInputs.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.AssemblyInfo.cs
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.csproj.CoreCompileInputs.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/refint/_50TryParse.dll
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.pdb
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/_50TryParse.genruntimeconfig.cache
+/home/wisloo/RiderProjects/_CSharpLessons/_50TryParse/obj/Debug/net9.0/ref/_50TryParse.dll
